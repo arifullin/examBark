@@ -1,0 +1,459 @@
+@font-face{
+	font-family: MVideo;
+	src: url('fonts/10479.ttf');
+
+}
+@font-face {
+	font-family: WarfaceRegularEnglish;
+	src: url('fonts/10138.ttf');
+}
+@font-face {
+	font-family: Segoe UI Light;
+	src: url('fonts/10479.ttf');
+}
+@font-face {
+	font-family: DINPro-Regular;
+	src: url('fonts/10419.otf');
+}
+@font-face{
+	font-family: Product_Sansi;
+	src: url('fonts/10505.ttf');
+}
+
+
+#font_abbr_logo{
+	font-family: 'WarfaceRegularEnglish';
+	font-size: 19pt;
+	line-height: 1em;
+	font-weight: 300;
+}
+.font_group_add_photo{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 600;
+	color: #008EA5;
+}
+
+#font_description{
+	font-family: 'Segoe UI Light';
+	font-size: 16pt;
+	font-weight: 500;
+	color: #005F6E;
+	line-height: 1.2em;
+	padding: 20px 100px;
+}
+
+#font_news_header{
+	font-family: 'DINPro-Regular';
+	font-size: 19.6pt;
+	font-weight: 100;
+	line-height: 1em;
+}
+
+#font_news_text{
+	font-family: 'Segoe UI Light';
+	font-size: 13.3pt;
+	font-weight: 100;
+	line-height: 1.2em;
+	margin-top: 10px;
+}
+
+
+
+.font_news_time{
+	font-family: 'Segoe UI Light';
+	font-size: 13.3pt;
+	font-weight: 100;
+	color: #008EA5;
+	line-height: 1em;
+}
+
+#font_info_itis{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 600;
+	color: #FFFFFF;
+	line-height: 1em;
+
+}
+
+#font_info{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 100;
+	color: #FFFFFF;
+	line-height: 1.2em;
+
+}
+
+#font_footer{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 100;
+	color: #008EA5;
+	line-height: 1.2em;
+}
+
+
+#font_abbr_logo_small{
+	font-family: 'WarfaceRegularEnglish';
+	font-size: 16pt;
+	line-height: 1em;
+	font-weight: 400;
+
+	width: 400px;
+	/* костыль start */
+	margin-bottom: -5px;
+	/* костыль end */
+	
+}
+
+
+#font_event_time{
+	font-family: 'DINPro-Regular';
+	font-size: 30pt;
+	font-weight: 100;
+	color: #005F6E;
+	float:left;
+	margin-top: -5px;
+	margin-right: 10px;
+	margin-left: 5px;
+}
+
+.font_event_data{
+	font-family: 'DINPro-Regular';
+	font-size: 13pt;
+	font-weight: 100;
+	color: #005F6E;
+	margin-top: -10px;
+	/*margin-bottom: 4px;*/
+}
+
+.font_event_header{
+	font-family: 'DINPro-Regular';
+	font-size: 13pt;
+	font-weight: 100;
+	line-height: 1em;
+	float:left;
+	padding-right: 20px;
+	padding-left: 10px;
+
+}
+
+.font_events_text{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	font-weight: 100;
+	line-height: 1.2em;
+	padding-right: 30px;
+	padding-left: 5px;
+}
+
+.font_events_tag{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	font-weight: 500;
+	color: #008EA5;
+	margin-right: 5px;
+}
+
+#font_event_author{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	font-weight: 300;
+	text-align: right;
+}
+
+.font_event_author_time{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	font-weight: 100;
+	color: #008EA5;
+	text-align:right;
+	margin-left: 10px;
+}
+
+#font_tag_box{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 600;
+	color: #008EA5;
+	text-align: center;
+	padding-top: 1px;
+}
+
+#font_menu{
+	font-family: 'Product_Sansi';
+	font-size: 16pt;
+	font-weight: normal;
+	color: white;
+}
+
+#font_menu_username{
+	font-family: 'Segoe UI Light';
+	font-size: 16pt;
+	font-weight: normal;
+	color: white;
+	margin-left: 8px;
+}
+
+/*event_page, worker_page*/
+.font_button_checkbox_radio{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 300;
+	color: #005F6E;
+}
+
+#font_event_participants{
+	font-family: 'DINPro-Regular';
+	font-size: 20pt;
+	font-weight: normal;
+	color: #008EA5;
+}
+
+#font_show_more_block{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 300;
+		color: #008EA5;
+}
+.font_group_participants{
+	font-family: 'DINPro-Regular';
+	font-size: 16pt;
+	font-weight: normal;
+	color: #008EA5;
+}
+
+.font_aside_personal_area{
+	font-family: 'Segoe UI Light';
+	font-size: 12pt;
+	font-weight: 300;
+	color: #005F6E;
+}
+
+
+.font_aside_personal_area{
+	font-family: 'Segoe UI Light';
+	font-size: 12pt;
+	font-weight: 300;
+	color: #005F6E;
+}
+
+.font_notification_subject_and_data{
+	font-family: 'Product_Sansi';
+	font-size: 11pt;
+	font-weight: 300;
+    margin-right: 5px;
+	color: #005F6E;
+}
+
+
+.font_notification_text{
+	font-family: 'Segoe UI Light';
+	font-size: 9pt;
+	font-weight: normal;
+	color: #005F6E;
+	margin-top: -8px;
+}
+
+
+.font_group_project_name{
+	font-family: 'DINPro-Regular';
+	font-size: 11pt;
+	font-weight: 300;
+	color: #000000;
+
+}
+
+
+.font_worker_search_students_and_groups_header{
+	font-family: 'DINPro-Regular';
+	font-size: 13pt;
+	font-weight: normal;
+	color: #005F6E;	
+}
+
+.font_placeholder_student_search{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: normal;
+	color: #005F6E;
+}
+
+
+.font_student_search_button{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: normal;
+	color: white;
+}
+
+
+.font_student_list{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 300;
+	color: #005F6E;
+}
+
+.chb-label-font{
+	font-family: 'Segoe UI Light';
+	font-size: 12pt;
+	font-weight: normal;
+	color: #005f6f;
+}
+
+
+.font_modal_header{
+	font-family: 'DINPro-Regular';
+	font-size: 18.6pt;
+	font-weight: 100;
+	margin-top: -10px;
+	margin-bottom: 0px;
+}
+
+.font_modal_text{
+	font-family: 'Product_Sansi';
+	font-size: 19pt;
+	font-weight: 300;
+	color: #005F6E;
+	margin-top:-10px;
+}
+
+.font_modal_text_after_confirm_1{
+	font-family: 'Product_Sansi';
+	font-size: 19pt;
+	font-weight: 300;
+	color: #005F6E;
+	text-align: center;
+	padding-left:   40px;
+	padding-right:  40px;
+	padding-bottom: 20px;
+
+}
+.font_modal_text_after_confirm_2{
+	font-family: 'Segoe UI Light';
+	font-size: 19pt;
+	font-weight: 300;
+	color: #005F6E;
+	text-align: center;
+	padding-left:   40px;
+	padding-right:  40px;
+}
+
+.font_modal_header_small{
+	font-size: 16pt;
+}
+
+.font_group_direction{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	color: #005F6E;
+	font-weight: 300;
+}
+
+.font_aside_black_text{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	color: black;
+	font-weight: 400;
+}
+
+.font_aside_blue_text{
+	font-family: 'Segoe UI Light';
+	font-size: 12pt;
+	color: #005F6E;
+	font-weight: 400;
+}
+
+.font_aside_header{
+	font-family: 'DINPro-Regular';
+	font-size: 13pt;
+	font-weight: 100;
+	line-height: 1em;
+}
+
+.font_one_page_header{
+	font-family: 'DINPro-Regular';
+	font-size: 18.3pt;
+	font-weight: 100;
+	line-height: 1em;
+	color: #005F6E;
+}
+
+.font_mini_header{
+	font-family: 'DINPro-Regular';
+	font-size: 12pt;
+	font-weight: 100;
+	line-height: 1em;
+	color: #005F6E;
+	padding-left: 10px;
+	padding-top: 10px;
+	margin-bottom: 5px;
+}
+
+.font_spoiler_cl_op{
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 500;
+	color: #008EA5;
+}
+
+/*Modal reference*/
+
+
+.font_reference_modal_header{
+	font-family: 'DINPro-Regular';
+	font-size: 13pt;
+	font-weight: 100;
+	margin-top: -10px;
+	margin-bottom: 4px;
+	text-align: left;
+}
+
+/*time news*/
+
+.font_news_admin_time_center{
+	font-family: 'Segoe UI Light';
+	font-size: 19pt;
+	font-weight: 600;
+	margin-top: -3px;
+	color: #008EA5!important;
+}
+
+.font_group_add_photo {
+	font-family: 'Segoe UI Light';
+	font-size: 13pt;
+	font-weight: 600;
+	color: #008EA5;
+}
+.font_c404block {
+	font-family: "Product_Sansi";
+	font-size: 30pt;
+	font-weight: 300;
+	color: #008ea5;
+	margin-top: -130px;
+	margin-left: 35px;
+}
+
+.font_c404block_button {
+	font-family: "Product_Sansi";
+	font-size: 30pt;
+	font-weight: 300;
+	color: rgba(255, 255, 255, 0.7);
+	margin-top: 40px;
+	margin-left: 35px;
+}
+
+
+/**/
+
+
+.font_timeteble_element{
+	font-family: 'Segoe UI Light';
+	font-size: 11pt;
+	font-weight: 600;
+}
+
+
